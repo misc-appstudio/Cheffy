@@ -1,2 +1,2 @@
 # Cheffy
-Cheffy AI Meall PLanner
+Cheffy AI Meal PLanner
