@@ -1,5 +1,6 @@
-# Cheffy
-Cheffy AI Meal Planner
+# Cheffy 
+Cheffy AI Meal Planner and Recipes
+
 
 ## Contact us
 You can reach us at: misc.appstudio@gmail.com
